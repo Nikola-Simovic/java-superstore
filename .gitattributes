@@ -1,2 +1,3 @@
 SuperStore\src\main\java\SuperStoreOrders.csv linguist-vendored
 data\SuperStoreOrders.csv linguist-vendored
+SuperStore\src\main\java\lib\* linguist-vendored

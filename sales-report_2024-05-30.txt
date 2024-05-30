@@ -1,0 +1,16 @@
+-Super Store sales report-
+
+
+
+The sales, divided by regions are as follows:
+
+West: 725457,82
+South: 391021,20
+Central: 500130,44
+East: 678664,46
+
+
+The total amount of sales is as follows:
+
+Number of Sales: 9988
+Total Sales Value: 2295273,92
